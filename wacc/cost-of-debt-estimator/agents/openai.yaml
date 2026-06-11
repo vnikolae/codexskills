@@ -1,0 +1,4 @@
+interface:
+  display_name: "Cost of Debt"
+  short_description: "Estimate debt cost from yields and ratings with a saved report."
+  default_prompt: "Use $cost-of-debt-estimator to estimate cost of debt for a public company, compare at least two methods, and save a methodology report in the project folder."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Cost of Equity"
+  short_description: "Gate peer review and estimate cost of equity."
+  default_prompt: "Use $cost-of-equity-estimator to propose peers, review leverage assumptions, estimate historical and bottom-up cost of equity, and generate an equity dashboard."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "WACC Estimator"
+  short_description: "Combine debt and equity reports into a final WACC estimate."
+  default_prompt: "Use -estimator to use the cost of debt and cost of equity reports, compute WACC from historical and bottom-up betas, and save a WACC report."
